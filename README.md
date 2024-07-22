@@ -7,10 +7,6 @@
 
 ###
 
- <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
-
-###
-
 <h2 align="left">Lessons Learned</h2>
 
 ###
